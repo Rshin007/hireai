@@ -1,1 +1,1 @@
-This is HireAI - An AI powered hiring tool
+- Candidate ranking dashboard
